@@ -43,7 +43,7 @@ This project aims to clarify the purpose and goals of the data analytics initiat
 **Overall Report**
 
 Home Page of the Dashboard
-![h](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/58e70799-b228-4691-bbd5-2f93e341ca16)
+![h](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Homepage.png.png)
 
 Finance View
 ![f](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/0825e7c3-3090-423e-9470-12d81a2e371e)
