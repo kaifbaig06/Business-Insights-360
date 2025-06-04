@@ -44,7 +44,7 @@ This project aims to clarify the purpose and goals of the data analytics initiat
 **Overall Report**
 
 Home Page of the Dashboard
-![h](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Homepage.png.png)
+![h](https://github.com/user-attachments/assets/6dd5e4e9-e8fa-4a57-905e-4228c91b15a3)
 
 Finance View
 ![f](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Finance.png.png)
