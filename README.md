@@ -1,6 +1,7 @@
 # Business-Insights-360
 
 [Link to Interactive dashboard](https://app.powerbi.com/groups/me/apps/ebe7e6c9-846b-490c-9fb0-a1896eb9abc2/reports/1b2bd244-f6b5-4db7-b32f-fd599b64d5be/9161a69e89065de8188d?experience=power-bi)
+
 End-to-end Power BI solution for AtliQ Hardware delivering advanced business intelligence across finance, sales, marketing, and supply chain—turning raw data into powerful insights.
 
 AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data analytics to gain a competitive edge and make informed decisions. This project aims to provide insights into various aspects such as finance, sales, marketing, and supply chain.
@@ -46,24 +47,24 @@ Home Page of the Dashboard
 ![h](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Homepage.png.png)
 
 Finance View
-![f](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/0825e7c3-3090-423e-9470-12d81a2e371e)
+![f](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Finance.png.png)
 
 Sales View
-![s](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/e59ddda7-8d39-4f7c-8076-9c21885c4c3e)
+![s](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Sales.png.png)
 
 Marketing View
-![m](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/0ffcf851-b993-46a3-8931-4424b3b2c014)
+![m](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Marketing.png.png)
 
 Supply Chain View
-![sp](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/7328cfef-d6a6-4ffe-bc0a-12c75cdfe870)
+![sp](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Supply%20chain.png.png)
 
 Executive View
-![e](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/205ea814-11a1-4ead-8121-e9cf81592728)
+![e](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Executive.png.png)
 
 Info Page
-![i](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/b75569d5-1d29-4373-9d20-a80638081dbd)
+![i](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Information.png.png)
 
 Support Page
-![sprt](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/897e23dc-3467-4f5d-b10f-98c09fbaa69b)
+![sprt](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Support.png.png)
 
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
