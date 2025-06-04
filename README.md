@@ -47,24 +47,24 @@ Home Page of the Dashboard
 ![h](https://github.com/user-attachments/assets/6dd5e4e9-e8fa-4a57-905e-4228c91b15a3)
 
 Finance View
-![f](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Finance.png.png)
+![f](https://github.com/user-attachments/assets/48949f06-8f7f-49e2-8b07-f8fc1a82c831)
 
 Sales View
-![s](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Sales.png.png)
+![s](https://github.com/user-attachments/assets/f8585ad8-4184-482a-9ec2-9cf493e1533b)
 
 Marketing View
-![m](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Marketing.png.png)
+![m](https://github.com/user-attachments/assets/24bfa6a3-b87a-4a0b-b06f-7d83353b0571)
 
 Supply Chain View
-![sp](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Supply%20chain.png.png)
+![sp](https://github.com/user-attachments/assets/89ae1ccf-0374-43f6-b221-9be675560bfa)
 
 Executive View
-![e](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Executive.png.png)
+![e](https://github.com/user-attachments/assets/bd44b633-29c0-4941-944e-61780c912427)
 
 Info Page
-![i](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Information.png.png)
+![i](https://github.com/user-attachments/assets/f35d2409-55b5-43c9-80d9-55a1b54c8dd9)
 
 Support Page
-![sprt](https://github.com/kaifbaig06/Business-Insights-360/blob/main/Support.png.png)
+![sprt](https://github.com/user-attachments/assets/39393993-fb11-4d4d-a54c-270e741c7795)
 
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
